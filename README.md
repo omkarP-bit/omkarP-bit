@@ -7,7 +7,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=800&height=50&lines=DevOps+ENGINEER;CLOUD+%26+INFRASTRUCTURE;PHOTOGRAPHER+%40Withphotolibrary" alt="Omkar Patil Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=800&height=50&lines=DevOps+ENGINEER;CLOUD+%26+INFRASTRUCTURE;AI+%26+ML+ENTHUSIAST;SYSTEM+DESIGN+%26+AUTOMATION" alt="Omkar Patil Roles" />
 
   <br/>
 
@@ -15,14 +15,11 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkarP-bit&color=FF9900&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/omkarP-bit?label=FOLLOWERS&style=for-the-badge&color=FF9900&labelColor=0D1117" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=omkarp-bit&color=FF9900&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/omkarp-bit?label=FOLLOWERS&style=for-the-badge&color=FF9900&labelColor=0D1117" alt="Followers" />
 </p>
 
 <div align="center">
-  <a href="https://instagram.com/Withphotolibrary">
-    <img src="https://img.shields.io/badge/PHOTOGRAPHY-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/omkar-patil-a73907326">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -32,11 +29,14 @@
   <a href="mailto:omkarnivaspatil@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/omkarP-bit">
+  <a href="https://github.com/omkarp-bit">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FF9900" />
   </a>
   <a href="https://x.com/omkarP_bit">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/omkarp-bit/">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
 
@@ -48,9 +48,9 @@
 
 <br/>
 
-> **"Automate everything. Monitor everything. Ship with confidence."**
+> **"Infrastructure is code. Reliability is a feature. Automation is the discipline."**
 
-I am **Omkar Patil**, a passionate **DevOps & Cloud Engineering enthusiast** from Varanasi, India. I build coding projects from scratch — planning, designing, and solving real-life problems with code. Working towards becoming a full DevOps engineer, I love bridging the gap between development and operations through automation, containers, and CI/CD pipelines. When I'm not in the terminal, I'm behind a camera — sharing my photography at **@Withphotolibrary** on Instagram.
+I am **Omkar Patil**, a 3rd Year Student from the **Department of Artificial Intelligence & Data Science (AIDS), VIT Pune**. With a strong foundation in cloud infrastructure, container orchestration, and CI/CD pipelines, I architect and ship systems that are production-ready, observable, and scalable. My work sits at the intersection of **DevOps engineering, AI/ML integration, and IoT systems** — building end-to-end solutions from infrastructure provisioning to model deployment. I approach every project with a systems-design mindset: understanding the problem space, designing for resilience, and automating away operational toil.
 
 ---
 
@@ -92,26 +92,23 @@ I am **Omkar Patil**, a passionate **DevOps & Cloud Engineering enthusiast** fro
   <table width="100%">
     <tr>
       <td width="50%">
-        <h3>🚀 Project 1</h3>
-        <p>Brief description of your best project — what it does, what problem it solves.</p>
-        <img src="https://img.shields.io/badge/TECH-AWS,Docker,Python-FF9900?style=flat-square" />
+        <h3>🛡️ AI Based Compliance Engine</h3>
+        <p>An intelligent compliance automation system that leverages AI/ML to evaluate, flag, and enforce policy adherence across cloud infrastructure and codebases — reducing manual audit overhead and human error.</p>
+        <img src="https://img.shields.io/badge/TECH-Python,FastAPI,AWS,ML-FF9900?style=flat-square" />
       </td>
       <td width="50%">
-        <h3>🛠️ Project 2</h3>
-        <p>Brief description of your second project — highlight any CI/CD pipelines or cloud infra.</p>
-        <img src="https://img.shields.io/badge/TECH-Kubernetes,Jenkins,FastAPI-0db7ed?style=flat-square" />
+        <h3>🌐 IoT Network Monitor</h3>
+        <p>A real-time IoT network observability platform that tracks device health, network telemetry, and anomaly detection across distributed sensor nodes — built for reliability at the edge.</p>
+        <img src="https://img.shields.io/badge/TECH-IoT,Python,Docker,Kubernetes-0db7ed?style=flat-square" />
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3>📊 Project 3</h3>
-        <p>ML or data project — model, dataset, and real-world application.</p>
-        <img src="https://img.shields.io/badge/TECH-TensorFlow,scikit--learn,Python-FF9900?style=flat-square" />
+        <h3>🚨 Safe-Response</h3>
+        <p>An emergency response coordination system designed to minimize reaction time in critical scenarios — integrating real-time alerting, location intelligence, and automated escalation workflows.</p>
+        <img src="https://img.shields.io/badge/TECH-Python,Flask,AWS,CI/CD-326ce5?style=flat-square" />
       </td>
       <td width="50%">
-        <h3>📸 Withphotolibrary</h3>
-        <p>Photography portfolio — capturing moments and landscapes. Follow the journey on Instagram.</p>
-        <img src="https://img.shields.io/badge/TOOLS-Lightroom,Lightroom Classic-31A8FF?style=flat-square" />
       </td>
     </tr>
   </table>
@@ -122,15 +119,15 @@ I am **Omkar Patil**, a passionate **DevOps & Cloud Engineering enthusiast** fro
 ## GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarP-bit&theme=github-dark&color=FF9900&line=0db7ed&point=FFFFFF&area=true&area_color=FF9900&hide_border=true&bg_color=0D1117" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarp-bit&theme=github-dark&color=FF9900&line=0db7ed&point=FFFFFF&area=true&area_color=FF9900&hide_border=true&bg_color=0D1117" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarP-bit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarp-bit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=omkarP-bit&theme=tokyonight&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=omkarp-bit&theme=tokyonight&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarP-bit&theme=tokyonight&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarp-bit&theme=tokyonight&hide_border=false&layout=compact" />
 </div>
 
 ---
@@ -138,25 +135,36 @@ I am **Omkar Patil**, a passionate **DevOps & Cloud Engineering enthusiast** fro
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omkarP-bit&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omkarp-bit&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 ---
 
-## Deep Dive & Learning
+## Competitive Coding
 
-Beyond tooling, I actively explore:
-- **Infrastructure as Code**: Designing reproducible, version-controlled cloud environments that eliminate configuration drift and enable rapid, reliable deployments.
-- **Container Orchestration**: Deep-diving Kubernetes — from cluster setup and RBAC to HPA, resource limits, and production-grade deployments.
-- **CI/CD Philosophy**: Building pipelines with Jenkins and GitHub Actions that test, build, and deploy automatically — making releases a non-event.
-- **Observability**: Understanding how to monitor, log, and alert across distributed systems so issues are caught before users feel them.
+<div align="center">
+  <a href="https://leetcode.com/u/omkarp-bit/">
+    <img src="https://leetcard.jacoblin.cool/omkarp-bit?theme=dark&ext=contest&font=Rajdhani" alt="Omkar Patil LeetCode Stats" />
+  </a>
+</div>
+
+---
+
+## Deep Dive & Engineering Interests
+
+Beyond tooling, I actively explore and apply:
+- **System Design**: Architecting distributed, fault-tolerant systems with a focus on scalability, consistency, and observability — applying patterns like event-driven architecture, service mesh, and stateless design.
+- **Container Orchestration**: Deep-diving Kubernetes — cluster bootstrapping, RBAC, HPA, resource quotas, and production-grade multi-namespace deployments with Helm.
+- **CI/CD Engineering**: Building declarative pipelines with Jenkins and GitHub Actions — integrating automated testing, image scanning, and zero-downtime deployments into every commit cycle.
+- **Cloud Infrastructure**: Designing IaC-driven environments on AWS and GCP — VPCs, IAM policies, managed services, and cost-optimized architectures for real-world workloads.
+- **AI/ML in Production**: Bridging the gap between model development and deployment — containerizing inference pipelines, versioning models, and integrating ML into backend APIs.
 
 ---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
   <p><b>"First, solve the problem. Then, write the code." — John Johnson</b></p>
-  <p><i>I believe great software starts with understanding the problem deeply before jumping into implementation. I focus on building meaningful, scalable, and practical solutions — one pipeline at a time.</i></p>
+  <p><i>I believe great engineering starts with understanding the problem deeply before touching the keyboard. I focus on building systems that are not just functional — but observable, maintainable, and built to last.</i></p>
 </div>
 
 <br/>
@@ -164,9 +172,7 @@ Beyond tooling, I actively explore:
 ## Thanks for Visiting
 
 Technology keeps evolving, and so do I.  
-I believe consistency, curiosity, and automation are what turn developers into engineers.
-
-And sometimes — the best debugging session ends with a long walk and a good photo. 📸
+I believe consistency, curiosity, and a systems-first mindset are what turn developers into engineers.
 
 Let's build something meaningful.
 
@@ -174,7 +180,7 @@ Let's build something meaningful.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile.;Building+cloud-native+solutions.;DevOps+Engineer+%7C+Photographer.;Always+learning+new+technologies." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile.;Building+cloud-native+solutions.;DevOps+Engineer+%7C+AIDS+%40+VIT+Pune.;Always+learning%2C+always+shipping." />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:326ce5,50:0db7ed,100:FF9900&height=120&section=footer&text=Thank%20You%20:)&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%" />
 
