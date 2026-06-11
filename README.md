@@ -7,7 +7,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=800&height=50&lines=DevOps+ENGINEER;CLOUD+%26+INFRASTRUCTURE;AI+%26+ML+ENTHUSIAST;SYSTEM+DESIGN+%26+AUTOMATION" alt="Omkar Patil Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=800&height=50&lines=DevOps+ENGINEER;CLOUD+%26+INFRASTRUCTURE-DESIGN;AI+%26+ML+ENTHUSIAST;SYSTEM+DESIGN+%26+AUTOMATION" alt="Omkar Patil Roles" />
 
   <br/>
 
@@ -120,14 +120,6 @@ I am **Omkar Patil**, a 3rd Year Student from the **Department of Artificial Int
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarp-bit&theme=github-dark&color=FF9900&line=0db7ed&point=FFFFFF&area=true&area_color=FF9900&hide_border=true&bg_color=0D1117" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarp-bit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=omkarp-bit&theme=tokyonight&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarp-bit&theme=tokyonight&hide_border=false&layout=compact" />
 </div>
 
 ---
