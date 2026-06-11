@@ -126,9 +126,9 @@ I am **Omkar Patil**, a 3rd Year Student from the **Department of Artificial Int
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omkarp-bit&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omkarP-bit&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
